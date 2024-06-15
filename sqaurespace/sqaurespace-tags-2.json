@@ -1,0 +1,429 @@
+[
+    {
+      "id": "52169deb-a7eb-4047-9bfe-32a401eb760e",
+      "name": "popular",
+      "displayName": "Popular Designs",
+      "locale": "en-US",
+      "slug": "popular-designs",
+      "titleMeta": [
+        "Squarespace 7.0 Templates"
+      ],
+      "orderedTemplateIds": [
+        "1d08398c-b987-4f32-9d7d-a0d50cda19a8",
+        "30423117-f9ee-4190-ac7e-985588b98bc6",
+        "991df741-35a5-4161-9d92-c7a84c9b3638",
+        "d5503220-5a37-40b4-aef0-f2ca3dcb5a84",
+        "78dc6886-18d0-4c46-82dc-544aa988d4d5",
+        "a2a7fce4-7b61-47ad-bbc3-459d5f590bc3",
+        "e319ca0b-0746-481f-aaa9-7148cb71007e",
+        "f6e03699-c0f5-4f9e-9b44-1fda5a3ae1c6",
+        "92424e9b-1a84-49e1-a63d-c24a4ad805b5",
+        "fd436b98-44d5-4d5a-a7f8-a5e841fd2e0b",
+        "b8ae787a-2471-4710-af06-f955375c3829",
+        "a2ffe050-cdd6-4404-b6fa-9baca92554b5",
+        "28329ab0-9980-41c8-8c3b-8678ec6bb4e1",
+        "b207d8a1-ed0f-42dc-b38c-ba215a06c945",
+        "5792bddd-40f8-4b33-9168-f308dab2c0d4",
+        "4960c04a-edba-4a84-8716-2b1167a9f7c4",
+        "9c4f3ec4-c571-40d3-95af-00cfa73d7458",
+        "99cabfec-026d-42a6-89de-7727112f19af",
+        "634877ed-c983-4e47-b3c6-425fd44e4b7d",
+        "b551f399-3282-400f-885c-c932d5cec017",
+        "3ac46d52-40e9-43f8-9a8d-d0034057ab7b",
+        "1bde399a-eea8-419f-842e-0c4ea52f5595",
+        "4b9abd98-390b-4329-8a26-0a00c3634640",
+        "9f7a6b34-96f2-4485-bc9b-f58ce92f64fe"
+      ],
+      "description": null,
+      "associatedAttributes": []
+    },
+    {
+      "id": "fbdec805-0376-41cf-b5b2-3126b5562ff6",
+      "name": "online-stores",
+      "displayName": "Online Stores",
+      "locale": "en-US",
+      "slug": "online-stores",
+      "titleMeta": [
+        "Squarespace 7.0 Online Store Templates"
+      ],
+      "orderedTemplateIds": [
+        "4960c04a-edba-4a84-8716-2b1167a9f7c4",
+        "546b03d9-8972-442e-ad50-84c48d929161",
+        "8c6a29df-79af-42ce-abda-b1e6e874f26b",
+        "0c259bbf-9df0-4032-ba1c-31159964ae88",
+        "e2cd7bb9-bf6a-4380-a3f6-9ce1c3fb3f13",
+        "f48e26a3-0b0a-49ab-a2b9-4a7104e150f2",
+        "2f5a2024-52d8-4e8a-8307-238699d79212",
+        "ac4ba0b1-1d32-4754-9e11-c26cfc20fac6"
+      ],
+      "description": null,
+      "associatedAttributes": []
+    },
+    {
+      "id": "358c0ab8-f2a9-475e-9591-77eeb4965802",
+      "name": "personal-cv",
+      "displayName": "Personal & CV",
+      "locale": "en-US",
+      "slug": "personal-cv",
+      "titleMeta": [
+        "Squarespace 7.0 Personal Website Templates"
+      ],
+      "orderedTemplateIds": [
+        "99cabfec-026d-42a6-89de-7727112f19af",
+        "4b9abd98-390b-4329-8a26-0a00c3634640",
+        "d5503220-5a37-40b4-aef0-f2ca3dcb5a84",
+        "f6e03699-c0f5-4f9e-9b44-1fda5a3ae1c6",
+        "17fb9867-6eff-4895-a869-9fb91050e1f9",
+        "9c4f3ec4-c571-40d3-95af-00cfa73d7458",
+        "be7bd26a-8a22-42ce-a5e3-9706d81973e3",
+        "975c839e-3c54-4475-9b1f-a6183966d822"
+      ],
+      "description": null,
+      "associatedAttributes": []
+    },
+    {
+      "id": "ad1260ae-9a51-4e05-8dcd-f90183fd1d2d",
+      "name": "blogs-podcasts",
+      "displayName": "Blogs & Podcasts",
+      "locale": "en-US",
+      "slug": "blogs-podcasts",
+      "titleMeta": [
+        "Squarespace 7.0 Blog Website Templates"
+      ],
+      "orderedTemplateIds": [
+        "a2ffe050-cdd6-4404-b6fa-9baca92554b5",
+        "28329ab0-9980-41c8-8c3b-8678ec6bb4e1",
+        "27af6592-fe19-4fa9-a223-122b83631ff9",
+        "23d9b058-6a8d-4fee-87ee-2839fa65380e",
+        "5bb8e50e-1fbf-4c79-9f63-45396c67c6b7",
+        "ccdbf938-684e-4404-b8c1-915af079da7e"
+      ],
+      "description": null,
+      "associatedAttributes": []
+    },
+    {
+      "id": "f08d19a4-f3b9-4f15-9b31-0edd98c36b6b",
+      "name": "portfolio",
+      "displayName": "Portfolios",
+      "locale": "en-US",
+      "slug": "portfolio",
+      "titleMeta": [
+        "Squarespace 7.0 Online Portfolio Templates"
+      ],
+      "orderedTemplateIds": [
+        "991df741-35a5-4161-9d92-c7a84c9b3638",
+        "d5503220-5a37-40b4-aef0-f2ca3dcb5a84",
+        "1d08398c-b987-4f32-9d7d-a0d50cda19a8",
+        "30423117-f9ee-4190-ac7e-985588b98bc6",
+        "00e81379-0681-4d3b-b938-f23384232ffd",
+        "e9e8fa6c-8c0c-49b1-8add-39ac889e0caa",
+        "7678ce08-9f9a-4cbf-99d8-48bf4b8de08a",
+        "0d871fe4-186a-413e-929a-38a3e88b7180",
+        "c6b71af6-33df-4b7a-8b7e-37aa0bd0e297",
+        "99cabfec-026d-42a6-89de-7727112f19af",
+        "5591c909-d171-4bae-8006-75cfcbdb6d46",
+        "a7189c40-cba1-42ef-8a36-345756bdcd87"
+      ],
+      "description": null,
+      "associatedAttributes": []
+    },
+    {
+      "id": "570ba786-35ee-4c0d-a724-246e5c99a59f",
+      "name": "musicians-bands",
+      "displayName": "Musicians & Bands",
+      "locale": "en-US",
+      "slug": "musicians-bands",
+      "titleMeta": [
+        "Squarespace 7.0 Music Website Templates"
+      ],
+      "orderedTemplateIds": [
+        "08ea8518-239d-4af4-a1f9-256908d8b60c",
+        "33438343-159b-414c-ab86-ef73057f16b1",
+        "4b9abd98-390b-4329-8a26-0a00c3634640",
+        "38569bcf-c93a-433c-bacb-c98f8eb1422b",
+        "fffa87bf-0996-4a31-99fa-546d8b54da4d",
+        "361d6f31-32c0-4aa0-83e3-c74e63c3d2a4"
+      ],
+      "description": null,
+      "associatedAttributes": []
+    },
+    {
+      "id": "646fc5ba-7fb7-4914-a0c5-5eae8be0e6b4",
+      "name": "restaurant",
+      "displayName": "Restaurants",
+      "locale": "en-US",
+      "slug": "restaurants",
+      "titleMeta": [
+        "Squarespace 7.0 Restaurant Website Templates"
+      ],
+      "orderedTemplateIds": [
+        "b207d8a1-ed0f-42dc-b38c-ba215a06c945",
+        "5792bddd-40f8-4b33-9168-f308dab2c0d4",
+        "96932e77-81d0-468c-b9c4-7d1d6ff05c93",
+        "824e279e-e8f9-4dee-9c7a-1b311ee0f685",
+        "d2b25407-0687-4d22-bd98-27b2b3da35da",
+        "af11a956-dd02-4a9f-b309-0b46ec8614cf"
+      ],
+      "description": null,
+      "associatedAttributes": []
+    },
+    {
+      "id": "b6716590-33e3-49dc-af1b-c9b0a9126a5e",
+      "name": "events",
+      "displayName": "Events",
+      "locale": "en-US",
+      "slug": "events",
+      "titleMeta": [
+        "Squarespace 7.0 Event Website Templates"
+      ],
+      "orderedTemplateIds": [
+        "634877ed-c983-4e47-b3c6-425fd44e4b7d",
+        "b551f399-3282-400f-885c-c932d5cec017",
+        "af30078e-14b8-43ec-80a7-4b546ad11db9",
+        "4514ee18-0bd6-4e0e-9353-1127e3a320bf",
+        "51e7edf6-394f-4d59-99f6-1aa487c17099",
+        "fc22fe33-9f92-4e5c-ac0c-f4fd25b6952c",
+        "4089bf03-fffc-4940-aa03-62c14e563efe",
+        "95e193ca-b4b5-444a-8c21-4f33e0dfd6f7"
+      ],
+      "description": null,
+      "associatedAttributes": []
+    },
+    {
+      "id": "9caf5528-3e76-4dcd-9b41-f5eebe3ccd82",
+      "name": "weddings",
+      "displayName": "Weddings",
+      "locale": "en-US",
+      "slug": "weddings",
+      "titleMeta": [
+        "Squarespace 7.0 Wedding Website Templates"
+      ],
+      "orderedTemplateIds": [
+        "3ac46d52-40e9-43f8-9a8d-d0034057ab7b",
+        "1bde399a-eea8-419f-842e-0c4ea52f5595",
+        "4089bf03-fffc-4940-aa03-62c14e563efe",
+        "51e7edf6-394f-4d59-99f6-1aa487c17099",
+        "b551f399-3282-400f-885c-c932d5cec017",
+        "fc22fe33-9f92-4e5c-ac0c-f4fd25b6952c",
+        "95e193ca-b4b5-444a-8c21-4f33e0dfd6f7",
+        "48f9baa5-fe36-42cb-9f42-94fca6b04427"
+      ],
+      "description": null,
+      "associatedAttributes": []
+    },
+    {
+      "id": "3da05e3a-7946-473b-a054-6a4063a9d2a4",
+      "name": "photography",
+      "displayName": "Photography",
+      "locale": "en-US",
+      "slug": "photography",
+      "titleMeta": [
+        "Squarespace 7.0 Photography Website Templates"
+      ],
+      "orderedTemplateIds": [
+        "1d08398c-b987-4f32-9d7d-a0d50cda19a8",
+        "30423117-f9ee-4190-ac7e-985588b98bc6",
+        "991df741-35a5-4161-9d92-c7a84c9b3638",
+        "00e81379-0681-4d3b-b938-f23384232ffd",
+        "e9e8fa6c-8c0c-49b1-8add-39ac889e0caa",
+        "7678ce08-9f9a-4cbf-99d8-48bf4b8de08a",
+        "a7189c40-cba1-42ef-8a36-345756bdcd87",
+        "0d871fe4-186a-413e-929a-38a3e88b7180",
+        "4b9abd98-390b-4329-8a26-0a00c3634640",
+        "c6b71af6-33df-4b7a-8b7e-37aa0bd0e297"
+      ],
+      "description": null,
+      "associatedAttributes": []
+    },
+    {
+      "id": "a35c41f9-6fa0-44cb-ac61-08da997f6acd",
+      "name": "professional-services",
+      "displayName": "Professional Services",
+      "locale": "en-US",
+      "slug": "professional-services",
+      "titleMeta": [
+        "Squarespace 7.0 Professional Services Website Templates"
+      ],
+      "orderedTemplateIds": [
+        "f6e03699-c0f5-4f9e-9b44-1fda5a3ae1c6",
+        "92424e9b-1a84-49e1-a63d-c24a4ad805b5",
+        "9c4f3ec4-c571-40d3-95af-00cfa73d7458",
+        "99cabfec-026d-42a6-89de-7727112f19af",
+        "fd436b98-44d5-4d5a-a7f8-a5e841fd2e0b",
+        "e319ca0b-0746-481f-aaa9-7148cb71007e",
+        "4b9abd98-390b-4329-8a26-0a00c3634640",
+        "b207d8a1-ed0f-42dc-b38c-ba215a06c945",
+        "b8ae787a-2471-4710-af06-f955375c3829",
+        "a2a7fce4-7b61-47ad-bbc3-459d5f590bc3",
+        "becb171f-c6b8-4e05-8e43-0c0b1d07e1f2",
+        "17fb9867-6eff-4895-a869-9fb91050e1f9"
+      ],
+      "description": null,
+      "associatedAttributes": []
+    },
+    {
+      "id": "6226a904-ddbe-4309-8882-0c39cc65e2c2",
+      "name": "local-business",
+      "displayName": "Local Business",
+      "locale": "en-US",
+      "slug": "local-business",
+      "titleMeta": [
+        "Squarespace 7.0 Business Website Templates"
+      ],
+      "orderedTemplateIds": [
+        "78dc6886-18d0-4c46-82dc-544aa988d4d5",
+        "e319ca0b-0746-481f-aaa9-7148cb71007e",
+        "fd436b98-44d5-4d5a-a7f8-a5e841fd2e0b",
+        "9c4f3ec4-c571-40d3-95af-00cfa73d7458",
+        "b8ae787a-2471-4710-af06-f955375c3829",
+        "9f7a6b34-96f2-4485-bc9b-f58ce92f64fe",
+        "a2a7fce4-7b61-47ad-bbc3-459d5f590bc3"
+      ],
+      "description": null,
+      "associatedAttributes": []
+    },
+    {
+      "id": "161ba7a3-fc47-45f8-bb9e-6fd5bf298e3d",
+      "name": "community-non-profit",
+      "displayName": "Community & Non-Profits",
+      "locale": "en-US",
+      "slug": "community-non-profits",
+      "titleMeta": [
+        "Squarespace 7.0 Non-Profit Website Templates"
+      ],
+      "orderedTemplateIds": [
+        "fd436b98-44d5-4d5a-a7f8-a5e841fd2e0b",
+        "b8ae787a-2471-4710-af06-f955375c3829",
+        "78dc6886-18d0-4c46-82dc-544aa988d4d5",
+        "e319ca0b-0746-481f-aaa9-7148cb71007e",
+        "613aa66d-32df-4eda-9f47-c40fb80864a0",
+        "a2a7fce4-7b61-47ad-bbc3-459d5f590bc3",
+        "9c4f3ec4-c571-40d3-95af-00cfa73d7458",
+        "f6e03699-c0f5-4f9e-9b44-1fda5a3ae1c6"
+      ],
+      "description": null,
+      "associatedAttributes": []
+    },
+    {
+      "id": "b48bb6b9-6021-40f1-8567-3eacfd27c158",
+      "name": "real-estate-properties",
+      "displayName": "Real Estate & Properties",
+      "locale": "en-US",
+      "slug": "real-estate-properties",
+      "titleMeta": [
+        "Squarespace 7.0 Real Estate Website Templates"
+      ],
+      "orderedTemplateIds": [
+        "e8f55058-5d6e-4a51-bfc2-d31a9eaecc0a",
+        "cdd45997-7515-4236-84e4-51b4d19b0326",
+        "29f0f723-ee2b-46a0-9872-459790b323c8",
+        "23d9b058-6a8d-4fee-87ee-2839fa65380e",
+        "440d0150-71be-4183-b260-7f5e11b29563"
+      ],
+      "description": null,
+      "associatedAttributes": []
+    },
+    {
+      "id": "04006c2d-f3f8-4c85-9e09-4c50fd84e514",
+      "name": "all-templates",
+      "displayName": "All Templates",
+      "locale": "en-US",
+      "slug": "all-templates",
+      "titleMeta": [
+        "Squarespace 7.0 Templates"
+      ],
+      "orderedTemplateIds": [
+        "44633e1f-6941-4e68-b7d4-02f84f518a0d",
+        "4089bf03-fffc-4940-aa03-62c14e563efe",
+        "33438343-159b-414c-ab86-ef73057f16b1",
+        "cdd45997-7515-4236-84e4-51b4d19b0326",
+        "95e193ca-b4b5-444a-8c21-4f33e0dfd6f7",
+        "991df741-35a5-4161-9d92-c7a84c9b3638",
+        "53c06890-fc3d-41f2-9e6a-f58794cfc95a",
+        "5792bddd-40f8-4b33-9168-f308dab2c0d4",
+        "b8ae787a-2471-4710-af06-f955375c3829",
+        "af11a956-dd02-4a9f-b309-0b46ec8614cf",
+        "0c259bbf-9df0-4032-ba1c-31159964ae88",
+        "440d0150-71be-4183-b260-7f5e11b29563",
+        "0559fcc2-1580-4edc-99df-2d9b71ece8f4",
+        "7e365acb-bf6c-4bf0-915f-341458f7f8fe",
+        "becb171f-c6b8-4e05-8e43-0c0b1d07e1f2",
+        "e9e8fa6c-8c0c-49b1-8add-39ac889e0caa",
+        "fc22fe33-9f92-4e5c-ac0c-f4fd25b6952c",
+        "ccbb3710-4c73-42ea-b253-bfc65dfc1671",
+        "be7bd26a-8a22-42ce-a5e3-9706d81973e3",
+        "af30078e-14b8-43ec-80a7-4b546ad11db9",
+        "5c9dfa62-e079-47c3-9a0a-0ff7054fb36f",
+        "a900ba9c-c638-4c6b-a68a-deb4a9acdba6",
+        "29f0f723-ee2b-46a0-9872-459790b323c8",
+        "7678ce08-9f9a-4cbf-99d8-48bf4b8de08a",
+        "b947267b-6d4b-49f6-b809-6a1443e27706",
+        "a7189c40-cba1-42ef-8a36-345756bdcd87",
+        "4960c04a-edba-4a84-8716-2b1167a9f7c4",
+        "ccdbf938-684e-4404-b8c1-915af079da7e",
+        "f98b4a47-005f-4796-bd07-7c79e30604ff",
+        "261d890e-d878-42a0-8de8-012fb1146d62",
+        "9c4f3ec4-c571-40d3-95af-00cfa73d7458",
+        "f108b065-abda-4eec-9467-0d893dddc697",
+        "23d9b058-6a8d-4fee-87ee-2839fa65380e",
+        "9114cd1b-601a-4357-9f4d-ec94f7d6e105",
+        "2f5a2024-52d8-4e8a-8307-238699d79212",
+        "5591c909-d171-4bae-8006-75cfcbdb6d46",
+        "08ea8518-239d-4af4-a1f9-256908d8b60c",
+        "d2b25407-0687-4d22-bd98-27b2b3da35da",
+        "f48e26a3-0b0a-49ab-a2b9-4a7104e150f2",
+        "a2a7fce4-7b61-47ad-bbc3-459d5f590bc3",
+        "8c6a29df-79af-42ce-abda-b1e6e874f26b",
+        "00e81379-0681-4d3b-b938-f23384232ffd",
+        "0d871fe4-186a-413e-929a-38a3e88b7180",
+        "546b03d9-8972-442e-ad50-84c48d929161",
+        "38569bcf-c93a-433c-bacb-c98f8eb1422b",
+        "3ac46d52-40e9-43f8-9a8d-d0034057ab7b",
+        "518a6eaf-8046-4165-94c2-ffdd403b0484",
+        "fd436b98-44d5-4d5a-a7f8-a5e841fd2e0b",
+        "48f9baa5-fe36-42cb-9f42-94fca6b04427",
+        "c6b71af6-33df-4b7a-8b7e-37aa0bd0e297",
+        "e8f55058-5d6e-4a51-bfc2-d31a9eaecc0a",
+        "17fb9867-6eff-4895-a869-9fb91050e1f9",
+        "e2cd7bb9-bf6a-4380-a3f6-9ce1c3fb3f13",
+        "613aa66d-32df-4eda-9f47-c40fb80864a0",
+        "27870f12-b70a-41d4-a262-85c1e925bb77",
+        "4b9abd98-390b-4329-8a26-0a00c3634640",
+        "78dc6886-18d0-4c46-82dc-544aa988d4d5",
+        "76f44a50-ba21-4be9-beec-95780004ccac",
+        "2a59a3e9-6876-46fb-9c74-a4032b37e398",
+        "5034e80c-a133-4884-8444-86f41ecff678",
+        "824e279e-e8f9-4dee-9c7a-1b311ee0f685",
+        "51e7edf6-394f-4d59-99f6-1aa487c17099",
+        "a2ffe050-cdd6-4404-b6fa-9baca92554b5",
+        "92424e9b-1a84-49e1-a63d-c24a4ad805b5",
+        "e319ca0b-0746-481f-aaa9-7148cb71007e",
+        "96932e77-81d0-468c-b9c4-7d1d6ff05c93",
+        "ac4ba0b1-1d32-4754-9e11-c26cfc20fac6",
+        "361d6f31-32c0-4aa0-83e3-c74e63c3d2a4",
+        "975c839e-3c54-4475-9b1f-a6183966d822",
+        "27af6592-fe19-4fa9-a223-122b83631ff9",
+        "f6e03699-c0f5-4f9e-9b44-1fda5a3ae1c6",
+        "815142b2-9852-4470-b40f-f953a546193d",
+        "634877ed-c983-4e47-b3c6-425fd44e4b7d",
+        "4514ee18-0bd6-4e0e-9353-1127e3a320bf",
+        "28329ab0-9980-41c8-8c3b-8678ec6bb4e1",
+        "99cabfec-026d-42a6-89de-7727112f19af",
+        "1bde399a-eea8-419f-842e-0c4ea52f5595",
+        "b551f399-3282-400f-885c-c932d5cec017",
+        "9f7a6b34-96f2-4485-bc9b-f58ce92f64fe",
+        "8a3d6458-0341-4b43-b648-addb911240d8",
+        "c2e5e2ff-a38f-49d2-8092-88641a28b4cb",
+        "b207d8a1-ed0f-42dc-b38c-ba215a06c945",
+        "5bb8e50e-1fbf-4c79-9f63-45396c67c6b7",
+        "a3f6df68-b56a-4fa4-aec7-dc47e647eaf7",
+        "fffa87bf-0996-4a31-99fa-546d8b54da4d",
+        "1d08398c-b987-4f32-9d7d-a0d50cda19a8",
+        "38b1b575-e38a-4ca4-83c3-724afbe3b0a6",
+        "30423117-f9ee-4190-ac7e-985588b98bc6",
+        "d5503220-5a37-40b4-aef0-f2ca3dcb5a84"
+      ],
+      "description": null,
+      "associatedAttributes": []
+    }
+  ]
