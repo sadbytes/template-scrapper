@@ -1,7 +1,8 @@
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, SoupStrainer
 import requests
 from urllib.parse import urlparse
 from os import listdir
+
 
 def get_page(url):
     """ Returns the HTML data of the URL
@@ -9,30 +10,33 @@ def get_page(url):
     then it retrives the page, saves it in '/cache' and finally returns the HTML
     """
     subdomain = urlparse(url).hostname.split('.')[0]
-    if subdomain in listdir('cache'):
-        with open('cache/{}'.format(subdomain), 'r') as f:
+    if "{}.html".format(subdomain) in listdir('cache'):
+        with open('cache/{}.html'.format(subdomain), 'r') as f:
             html_data = f.read()
     else:
         res = requests.get(url=url)
         html_data = res.text
-        with open('cache/{}'.format(subdomain), 'w') as f:
+        with open('cache/{}.html'.format(subdomain), 'w') as f:
             f.write(html_data)
     return html_data
 
-def get_urls(url):
-    html_data = get_page(url)
-    soup = BeautifulSoup(html_data, 'html.parser')
+def get_urls(base_url):
+    html_data = get_page(base_url)
+    base_url_hostname = urlparse(base_url).hostname
+    soup = BeautifulSoup(html_data, features='lxml', parse_only=SoupStrainer('a'))
     links = []
-    print(soup.a)
-    # print(soup.find_all('a'))
-    for a in soup.find_all('a'):
-        link = a.get('href')
-        if link and link not in links:
-            links.append(link.get('href'))
+    for link in soup.find_all('a', href=True):
+        url = link['href']
+        if (url not in links 
+            and urlparse(url).path 
+            and urlparse(url).hostname in [None, base_url_hostname]
+            ):
+            links.append(url)
     return links
+    
 
 
 
 if __name__=='__main__':
     url="https://cimen-fluid-demo.squarespace.com/?nochrome=true/"
-    print(get_urls(url))
+    get_urls(url)
