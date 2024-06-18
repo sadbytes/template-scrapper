@@ -1,0 +1,804 @@
+[
+  {
+    "categoryId": "dcb6890e-118c-4ede-ab86-2aa92fae9512",
+    "displayName": "Business",
+    "name": "business",
+    "type": "business",
+    "subCategories": [
+      {
+        "categoryId": "2109e45f-1724-40bf-bb9d-0b6864edc427",
+        "displayName": "Consulting & Coaching",
+        "name": "consulting-coaching",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "a2e4df42-283b-4f38-b303-c39d58f914f4",
+        "displayName": "Services & Maintenance",
+        "name": "services-maintenance",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "41e2a296-ceb1-4742-9c9a-487632706a2c",
+        "displayName": "Advertising & Marketing",
+        "name": "advertising-marketing",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "22d4a441-62f7-4958-a447-5ae3b5636695",
+        "displayName": "Technology & Apps",
+        "name": "technology-apps",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "503d1559-7e41-4015-a2ca-e0c3ffc9fbcf",
+        "displayName": "Real Estate",
+        "name": "real-estate",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "a7b71f0f-bd54-4b01-917c-f293ac9fa0f4",
+        "displayName": "Finance & Law",
+        "name": "finance-law",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "9e46dab0-8ce8-415a-8f69-7f7cbb8c2f4e",
+        "displayName": "Automotive & Cars",
+        "name": "automotive-cars",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "fdde8746-2755-4108-8d95-d9c82ec4e70c",
+        "displayName": "Farming & Gardening",
+        "name": "farming-gardening",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "db0bf518-954f-4c41-90f9-ffbb9919d61a",
+        "displayName": "Pets & Animals",
+        "name": "pets-animals",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      }
+    ],
+    "seoSection": ""
+  },
+  {
+    "categoryId": "9efd7464-7e7a-484c-b68f-87bea3baf5da",
+    "displayName": "Health & Wellness",
+    "name": "health-wellness",
+    "type": "business",
+    "subCategories": [
+      {
+        "categoryId": "f819b853-0275-468b-93e5-764dffdccfbf",
+        "displayName": "Health",
+        "name": "health",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "b15d2603-4946-41ec-bc8a-639189bc1df9",
+        "displayName": "Wellness",
+        "name": "wellness",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "40d87f64-c150-483a-bfb8-036bdef274fb",
+        "displayName": "Sports & Fitness",
+        "name": "sports-fitness",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      }
+    ],
+    "seoSection": ""
+  },
+  {
+    "categoryId": "ec5d3bfe-1bd6-4093-a40e-6f2576e5e802",
+    "displayName": "Beauty & Hair",
+    "name": "beauty-and-hair",
+    "type": "business",
+    "subCategories": [
+      {
+        "categoryId": "0351267b-a7dc-4a9d-8405-482cd270b315",
+        "displayName": "Makeup & Cosmetics",
+        "name": "makeup-and-cosmetics",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "3bdb7848-4ed7-4431-ae51-316a57296f83",
+        "displayName": "Hair",
+        "name": "hair",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      }
+    ],
+    "seoSection": ""
+  },
+  {
+    "categoryId": "ef02976b-36f5-441d-984c-2c082d117ac7",
+    "displayName": "Fashion & Style",
+    "name": "fashion-and-style",
+    "type": "business",
+    "subCategories": [
+      {
+        "categoryId": "4d5b24d8-1665-4b18-b826-5eb3f345d088",
+        "displayName": "Fashion",
+        "name": "fashion",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "cd1d3967-7a4d-459a-bb7c-b630ff39b236",
+        "displayName": "Accessories",
+        "name": "accessories",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      }
+    ],
+    "seoSection": ""
+  },
+  {
+    "categoryId": "592bf39d-d5de-4afd-8017-a006bcd4ab37",
+    "displayName": "Travel & Tourism",
+    "name": "travel-tourism",
+    "type": "business",
+    "subCategories": [
+      {
+        "categoryId": "2671e4c8-8593-4b66-9b24-13dcd18e8b04",
+        "displayName": "Hotels & B&Bs",
+        "name": "hotels-and-b-n-b-s",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "8c47168d-7146-4780-ab6a-6cf4bc2fd968",
+        "displayName": "Apartments & Hostels",
+        "name": "apartments-and-hostels",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "7c5df00f-ec00-4b35-8946-a2b9a61c8fab",
+        "displayName": "Travel Services",
+        "name": "travel-services",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      }
+    ],
+    "seoSection": ""
+  },
+  {
+    "categoryId": "9a73ce82-8bcd-4b61-95e0-31a88767617e",
+    "displayName": "Restaurants & Food",
+    "name": "restaurants-food",
+    "type": "business",
+    "subCategories": [
+      {
+        "categoryId": "9e6e7917-e411-41fd-9908-af0e666dfbef",
+        "displayName": "Catering & Chef",
+        "name": "catering-chef",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "0aab005c-0194-4f25-a2de-ee834aae2d0c",
+        "displayName": "Restaurant",
+        "name": "restaurant",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "b2255a6d-09cf-4171-a5f2-10a2187faba3",
+        "displayName": "Cafe & Bakery",
+        "name": "cafe-bakery",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "255c45bf-00a1-4571-926d-e5fd7374da3c",
+        "displayName": "Bar & Club",
+        "name": "bar-club",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "c24d381f-f5f0-48c5-b88b-53128c29e8cd",
+        "displayName": "Food & Drinks",
+        "name": "food-drinks",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      }
+    ],
+    "seoSection": ""
+  },
+  {
+    "categoryId": "96361226-a091-4f70-a3c1-1ff365ea947b",
+    "displayName": "One Page",
+    "name": "one-page",
+    "type": "business",
+    "subCategories": [
+      {
+        "categoryId": "2e707039-ba0c-42a7-b1e8-a5e59d554e83",
+        "displayName": "Coming Soon",
+        "name": "coming-soon",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "f94e3ef1-1292-49e0-84e6-275a2ec9994c",
+        "displayName": "Landing Pages",
+        "name": "landing-pages",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      }
+    ],
+    "seoSection": ""
+  },
+  {
+    "categoryId": "f1106d4d-d142-40cf-a4f1-f4b763bc09ca",
+    "displayName": "Professional CV",
+    "name": "professional-cv",
+    "type": "business",
+    "subCategories": [],
+    "seoSection": ""
+  },
+  {
+    "categoryId": "6e2392f3-c7c2-4ec4-a769-12d73d64dba2",
+    "displayName": "eCommerce",
+    "name": "online-store",
+    "type": "business",
+    "subCategories": [
+      {
+        "categoryId": "2c049677-ea25-4547-b778-b43be1b1c0ab",
+        "displayName": "Fashion & Clothing",
+        "name": "fashion-clothing",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "b021a588-3173-4077-a6ef-04dd552b9bda",
+        "displayName": "Jewelry & Accessories",
+        "name": "jewelry-accessories",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "d480f60a-cf2d-4ebc-a9fa-9b9e96cbffca",
+        "displayName": "Arts & Crafts",
+        "name": "arts-crafts",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "5c6dc672-ce08-4c43-b4b3-6d6bd7c73acf",
+        "displayName": "Home & Decor",
+        "name": "home-decor",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "60b302c0-7516-4783-976b-0939c2b914f7",
+        "displayName": "Beauty & Wellness",
+        "name": "beauty-wellness",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "9b164c3d-d98c-425f-8ccb-77697d843ccb",
+        "displayName": "Food & Drinks",
+        "name": "food-drinks-ecom",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "57dec484-d0df-4518-946a-fcf0de88e961",
+        "displayName": "Sports & Outdoors",
+        "name": "sports-outdoors",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "767b64b5-b3a7-409a-8137-7b2fc72641b2",
+        "displayName": "Electronics",
+        "name": "electronics",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "3c2fc4a0-306b-4bbb-8bfd-9cd3306f889a",
+        "displayName": "Kids & Babies",
+        "name": "kids-babies",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "6e512062-14db-4374-81be-aade1a7b41cd",
+        "displayName": "Books & Publishers",
+        "name": "books-publishers",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "ac43f11c-7ab6-4517-a1ef-5f67093a9b51",
+        "displayName": "Pets & Animals",
+        "name": "pets-animals-ecom",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "23208515-65b4-4b94-9303-5cd655585423",
+        "displayName": "CBD",
+        "name": "cbd",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      }
+    ],
+    "seoSection": "\u003Csection\u003E\n  \u003Ch2\u003EWix eCommerce Website Templates\u003C\u002Fh2\u003E\n  \u003Cdiv\u003E\n    \u003Cp\u003EWix eCommerce templates are the perfect starting point for \u003Ca href=\"https:\u002F\u002Fwww.wix.com\u002Fecommerce\u002Fwebsite\"\u003Ebuilding your online store\u003C\u002Fa\u003E. When you choose a free template to edit, you’ll get a fully built mobile-friendly store with everything you need to get started. This includes product galleries, order management, Wix Payments, and all kinds of built-in business features. All of our eCommerce templates are created to ensure that every component, from the style to the pages, has the functionality you’re looking for.\u003C\u002Fp\u003E\n    \u003Cp\u003EYour online store template can be changed as little or as much as you want. Simply open a template in the Wix Editor, add the relevant apps and features, and customize any element you’d like. You can make adjustments to the design and layout, change the site name, edit content, replace images, add links, delete sections, and more. With so many options for customization, you can easily create a one-of-a-kind and fully functional html website for your business - no coding required.\u003C\u002Fp\u003E\n  \u003C\u002Fdiv\u003E\n\u003C\u002Fsection\u003E\n\u003Csection\u003E\n  \u003Ch2\u003EFlexibility for Your Online Store\u003C\u002Fh2\u003E\n  \u003Cp\u003E\n    Wix has over 500 free eCommerce website templates to choose from that cover a wide range of categories. Each template comes with its own unique style, so it’s easy to give your online store the look and feel that fits your brand perfectly.\n  \u003C\u002Fp\u003E\n  \u003Cp\u003E\n    Whether you’re creating a site for a boutique retail store or running a large-scale online business, you’re sure to find a template that has everything you need to build a beautiful online presence and sell products and services online.\n  \u003C\u002Fp\u003E\n\u003C\u002Fsection\u003E\n\u003Csection\u003E\n  \u003Ch2\u003EApps to Grow Your Business\u003C\u002Fh2\u003E\n  \u003Cdiv\u003E\n    \u003Cp\u003EOnce you’ve chosen from the Wix catalog of eCommerce website templates, you can add all kinds of apps and features to your site that will help you run, manage, and grow your business online. In the Wix App Market, you’ll find dozens of tools built specifically for eCommerce stores.\u003C\u002Fp\u003E\n    \u003Cp\u003EWith these tools, you can advertise and sell products on Facebook, eBay, and Instagram, increase revenue with dropshipping, or manage orders, invoices and payments in one place. No matter what goals you have for your online store, Wix has a solution to help you reach success.\u003C\u002Fp\u003E\n  \u003C\u002Fdiv\u003E\n\u003C\u002Fsection\u003E"
+  },
+  {
+    "categoryId": "c5b7fdda-de22-4af7-b564-cca860234c22",
+    "displayName": "Photography",
+    "name": "photography",
+    "type": "business",
+    "subCategories": [
+      {
+        "categoryId": "5181b7a6-cf9d-4667-8e2e-330c0d0ec34b",
+        "displayName": "Events & Portraits",
+        "name": "events-portraits",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "73cfdce6-2357-4ecb-b7fc-496d50004f19",
+        "displayName": "Commercial & Editorial",
+        "name": "commercial-editorial",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "1fd6b792-4d33-42c4-955c-94825e976088",
+        "displayName": "Travel & Documentary",
+        "name": "travel-documentary",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      }
+    ],
+    "seoSection": ""
+  },
+  {
+    "categoryId": "53eacc08-73e0-4543-a724-6ccef792ec1e",
+    "displayName": "Design",
+    "name": "design",
+    "type": "business",
+    "subCategories": [
+      {
+        "categoryId": "df8dd051-2cc0-47c5-b294-d82f1c06707b",
+        "displayName": "Architecture",
+        "name": "architecture",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "70847f6d-d53f-46be-8f08-84f49d061d8b",
+        "displayName": "Art & Illustration",
+        "name": "art-illustration",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "5b8ed728-05cb-43e8-9c88-9e746dae9a89",
+        "displayName": "Branding",
+        "name": "branding",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "39ec9562-5d1f-4c35-aceb-de1b83567da6",
+        "displayName": "Fashion Design",
+        "name": "fashion-design",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "32fdb36e-f52b-454f-a6a1-86eda702cfb9",
+        "displayName": "Graphic & Web",
+        "name": "graphic-web",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      }
+    ],
+    "seoSection": ""
+  },
+  {
+    "categoryId": "e978f982-48a2-494f-9ca4-da3dc6ab148f",
+    "displayName": "Music",
+    "name": "music",
+    "type": "business",
+    "subCategories": [
+      {
+        "categoryId": "e4a65f71-f2c4-45e5-837f-12e3fcb9bfe1",
+        "displayName": "Singer & Musician",
+        "name": "singer-musician",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "602000e9-868c-423b-a6ed-6f04c491a21a",
+        "displayName": "Band",
+        "name": "band",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "fdb466d3-c639-408e-b61b-a7c45b251415",
+        "displayName": "DJ & Producer",
+        "name": "dj-and-producer",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "73e33d9f-7c97-44ef-8263-0b4a00f86209",
+        "displayName": "Music Industry",
+        "name": "music-industry",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "c3061a73-0c46-4300-b39e-366d85ec41d1",
+        "displayName": "Music Promotion",
+        "name": "music-promotion",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      }
+    ],
+    "seoSection": ""
+  },
+  {
+    "categoryId": "56cc4785-d61e-403e-9129-c842ff7db417",
+    "displayName": "Video",
+    "name": "video",
+    "type": "business",
+    "subCategories": [
+      {
+        "categoryId": "146159c1-d134-4103-a65a-104d212ba5b3",
+        "displayName": "Film & TV",
+        "name": "film-tv",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "3d853bf2-e95a-4b11-a696-51763d12a2d5",
+        "displayName": "Online Education",
+        "name": "online-education",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "4aacd5ad-fdee-419c-bb90-19cbf761e41d",
+        "displayName": "Vlog",
+        "name": "vlog",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      }
+    ],
+    "seoSection": ""
+  },
+  {
+    "categoryId": "523495ea-47ff-419e-9335-20df5391df38",
+    "displayName": "Creative Arts",
+    "name": "creative-arts",
+    "type": "business",
+    "subCategories": [
+      {
+        "categoryId": "4d251f7d-a708-4f23-8bbc-88f51f8473c2",
+        "displayName": "Performing Arts",
+        "name": "performing-arts",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "f8fd61e6-6010-451d-b433-55348aa94be2",
+        "displayName": "Literary Arts",
+        "name": "literary-arts",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "d3829511-e4fd-40f1-991a-4fa4337fcbac",
+        "displayName": "Visual Arts",
+        "name": "visual-arts",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      }
+    ],
+    "seoSection": ""
+  },
+  {
+    "categoryId": "9723d988-d339-4b83-9ba6-bc6836ad6c19",
+    "displayName": "Portfolio & CV",
+    "name": "portfolio-cv",
+    "type": "business",
+    "subCategories": [
+      {
+        "categoryId": "ecf9a1fb-d114-4ce6-8f04-fe030ba526c9",
+        "displayName": "Portfolios",
+        "name": "portfolios",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "acca61ef-8fab-4f5d-bed7-4a798264f692",
+        "displayName": "Resumes & CVs",
+        "name": "resumes-cvs",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "d4b49af0-3572-4e83-a40a-fc83c7aa6803",
+        "displayName": "Personal",
+        "name": "personal",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      }
+    ],
+    "seoSection": ""
+  },
+  {
+    "categoryId": "b3c6e6d2-8472-4b06-b261-4164e2cd54b0",
+    "displayName": "Communities",
+    "name": "communities",
+    "type": "business",
+    "subCategories": [
+      {
+        "categoryId": "ef03c618-4e6b-4c41-8e59-1ce77622c63d",
+        "displayName": "Religion",
+        "name": "religion",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "2d9b3dc5-a2ef-459a-a1ab-c6c6ef22b8fe",
+        "displayName": "Non-Profit",
+        "name": "non-profit",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "c280fa11-643c-40fd-b7bf-a0719b7fb3fb",
+        "displayName": "Online Forum",
+        "name": "online-forum",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      }
+    ],
+    "seoSection": ""
+  },
+  {
+    "categoryId": "d521e564-b4ea-48e5-ae52-9efce8958b75",
+    "displayName": "Education",
+    "name": "education",
+    "type": "business",
+    "subCategories": [
+      {
+        "categoryId": "7f3d6531-b9ab-4dc9-a240-3c30822560b5",
+        "displayName": "Schools & Universities",
+        "name": "schools-universities",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "d46ce3ee-d695-47b4-b52f-b8b418aeb844",
+        "displayName": "Online Education",
+        "name": "online-education-education",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "fdf4b67b-8e4a-4c0a-8a71-56cbf8dc4e71",
+        "displayName": "Classes & Courses",
+        "name": "classes-courses",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      }
+    ],
+    "seoSection": ""
+  },
+  {
+    "categoryId": "61b09026-b815-4302-abdd-7c3a65c78c64",
+    "displayName": "Events",
+    "name": "events",
+    "type": "business",
+    "subCategories": [
+      {
+        "categoryId": "c4cf9a7a-b252-45a1-af1b-08f298a8c608",
+        "displayName": "Weddings",
+        "name": "weddings",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "3b3bc2fa-8aab-4143-9ca9-d44443e34ed7",
+        "displayName": "Holidays & Celebrations",
+        "name": "holidays-celebrations",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "8492b4ae-cc8b-477f-9559-81b9a70a6593",
+        "displayName": "Conferences & Meetups",
+        "name": "conferences-meetups",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "63f8950d-d764-46e6-b977-e08e90ba8abe",
+        "displayName": "Event Production",
+        "name": "event-production",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "7d990e57-a42d-42ac-89a5-135c1e3624f3",
+        "displayName": "Venues",
+        "name": "venues",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      }
+    ],
+    "seoSection": ""
+  },
+  {
+    "categoryId": "3765cf8d-6900-4c57-9ca1-9c504bc740a0",
+    "displayName": "Blog",
+    "name": "blog",
+    "type": "business",
+    "subCategories": [
+      {
+        "categoryId": "da3b7ecf-ef77-45a2-a07c-98e56f4078f9",
+        "displayName": "Personal Blog",
+        "name": "personal-blog",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "3f22f965-8aab-4a43-b577-cb21186558c7",
+        "displayName": "Food & Travel",
+        "name": "food-travel",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "475bed3e-8ba3-4851-9117-5b78a10dea31",
+        "displayName": "News & Business",
+        "name": "news-business",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "a4244bd8-bdcf-4dcd-81c7-550a4d26ce83",
+        "displayName": "Arts",
+        "name": "arts",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "add1fdbd-a4a3-4bef-af60-a299f35e8796",
+        "displayName": "Fashion & Beauty",
+        "name": "fashion-and-beauty-blogs",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "8a492d86-04b8-466d-9c9e-489baccdfccb",
+        "displayName": "Sports & Wellness",
+        "name": "sports-wellness",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      },
+      {
+        "categoryId": "0d0e0a67-9970-497f-8f87-a2c6d255dca6",
+        "displayName": "Podcast",
+        "name": "podcast",
+        "type": "business",
+        "subCategories": [],
+        "seoSection": ""
+      }
+    ],
+    "seoSection": ""
+  },
+  {
+    "categoryId": "15943401-67e0-4720-a8bb-b8b859042926",
+    "displayName": "All",
+    "name": "all",
+    "type": "main",
+    "subCategories": [],
+    "seoSection": ""
+  }
+]
