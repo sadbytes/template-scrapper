@@ -3,20 +3,22 @@ import requests
 from urllib.parse import urlparse
 from os import listdir
 
+__all__ = ['get_page', 'get_urls']
 
 def get_page(url):
     """ Returns the HTML data of the URL
     It checks if a cache is available in '/cache' directory, if no cache is found
     then it retrives the page, saves it in '/cache' and finally returns the HTML
     """
-    subdomain = urlparse(url).hostname.split('.')[0]
-    if "{}.html".format(subdomain) in listdir('cache'):
-        with open('cache/{}.html'.format(subdomain), 'r') as f:
+    parsed_url = urlparse(url)
+    file_name = parsed_url.hostname + '-'.join(parsed_url.path.split('/')) + '.html'
+    if "{}".format(file_name) in listdir('cache'):
+        with open(f'cache/{file_name}', 'r') as f:
             html_data = f.read()
     else:
         res = requests.get(url=url)
         html_data = res.text
-        with open('cache/{}.html'.format(subdomain), 'w') as f:
+        with open(f'cache/{file_name}', 'w') as f:
             f.write(html_data)
     return html_data
 
@@ -33,10 +35,7 @@ def get_urls(base_url):
             ):
             links.append(url)
     return links
-    
-
 
 
 if __name__=='__main__':
-    url="https://cimen-fluid-demo.squarespace.com/?nochrome=true/"
-    get_urls(url)
+    get_urls('https://www.wix.com/demone2/website-under-constr')
