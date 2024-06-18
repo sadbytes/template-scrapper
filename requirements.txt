@@ -1,3 +1,4 @@
-pytest-playwright
+playwright
 requests
 beautifulsoup4
+lxml
