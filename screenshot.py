@@ -72,17 +72,16 @@ async def main():
     with open('squarespace/squarespace-templates.json', 'r') as f:
         websites = json.loads(f.read())
 
-
-
     url_list = [website['url'] for website in websites][:10]
     url_list = ["https://clay-demo.squarespace.com"]
     tasks = []
     async with Screenshot() as s:
         for url in url_list:
-            file_path = f'{CURRENT_DIR}/screenshots/{urlparse(url).hostname}{"-".join(urlparse(url).path)}.png'
-            tasks.append(s.get_screenshot(f'{url}/?nochrome=true', file_path, full_page=True))
+            file_path = f'{
+                CURRENT_DIR}/screenshots/{urlparse(url).hostname}{"-".join(urlparse(url).path)}.png'
+            tasks.append(s.get_screenshot(
+                f'{url}/?nochrome=true', file_path, full_page=True))
         await asyncio.gather(*tasks)
-
 
 
 if __name__ == '__main__':
@@ -95,7 +94,8 @@ if __name__ == '__main__':
     c_handler.setLevel(logging.INFO)
     f_handler.setLevel(logging.ERROR)
     c_handler.setFormatter(logging.Formatter('[%(levelname)s] - %(message)s'))
-    f_handler.setFormatter(logging.Formatter('%(asctime)s - [%(levelname)s] - %(message)s'))
+    f_handler.setFormatter(logging.Formatter(
+        '%(asctime)s - [%(levelname)s] - %(message)s'))
     logger.addHandler(c_handler)
     logger.addHandler(f_handler)
     asyncio.run(main())

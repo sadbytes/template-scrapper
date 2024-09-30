@@ -1,12 +1,10 @@
 import json
 
 with open('sqaurespace/sqaurespace-tags.json', 'r') as f:
-    groups =  json.loads(f.read())
+    groups = json.loads(f.read())
 
 with open('sqaurespace/squarespace-templates.json', 'r') as f:
     templates = json.loads(f.read())
-
-
 
 
 def group_data_by_tags():
@@ -33,7 +31,8 @@ def group_data_by_tags():
                     data[id].append(item['name'])
                 for template_id in item['orderedTemplateIds']:
                     if template_id not in data[id]['templates']:
-                        data[id]['templates'][template_id] = template_data.get(template_id)
+                        data[id]['templates'][template_id] = template_data.get(
+                            template_id)
 
     with open('sqaurespace/squarespace-data-by-tags.json', 'w') as f:
         json.dump(data, f)
@@ -45,7 +44,7 @@ def group_data_by_templates():
     for group in groups:
         for item in group['attributes']:
             ids[item['id']] = item['displayName']
-    
+
     for template in templates:
         print("[O] Curennt Template: {}".format(template['displayName']))
         template_data[template['id']] = {
@@ -57,7 +56,7 @@ def group_data_by_templates():
     with open('sqaurespace/squarespace-data-by-templates.json', 'w') as f:
         json.dump(template_data, f)
 
+
 if __name__ == '__main__':
     group_data_by_tags()
     group_data_by_templates()
-
